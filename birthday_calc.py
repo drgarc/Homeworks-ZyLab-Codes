@@ -1,3 +1,5 @@
+#Daniel Garcia ; PSID 1601483
+
 #Prompt the user to enter the current date by month, day and year
 print('Birthday Calculator\nPlease enter the current date')
 current_month = int(input('Month: '))

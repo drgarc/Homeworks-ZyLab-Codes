@@ -1,3 +1,5 @@
+#Daniel Garcia ; PSID 1601483
+
 #Reading input from user
 user_num = int(input())
 
